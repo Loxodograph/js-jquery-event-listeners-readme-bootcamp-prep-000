@@ -15,7 +15,7 @@ function submitIt(){
   });
 }
 function pressIt(){
-  $('#typing')
+  $('input')
 }
 $(document).ready(function(){
 
