@@ -14,7 +14,9 @@ function submitIt(){
     return;
   });
 }
-function pressIt()
+function pressIt(){
+  $('#typing')
+}
 $(document).ready(function(){
 
 getIt();
