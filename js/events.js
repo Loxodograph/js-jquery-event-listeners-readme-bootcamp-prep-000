@@ -14,6 +14,7 @@ function submitIt(){
     return;
   });
 }
+function pressIt()
 $(document).ready(function(){
 
 getIt();
